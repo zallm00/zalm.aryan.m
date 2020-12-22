@@ -1,0 +1,23 @@
+{
+  "name": "mbwf-v1",
+  "version": "1.0.0",
+  "description": "A basic music bot with filters!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-ytdl-core": "^4.1.3",
+    "discord.js": "^12.4.1",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "lyrics-finder": "^21.4.0",
+    "node.js": "0.0.1-security",
+    "string-progressbar": "^1.0.1",
+    "youtube-sr": "^1.0.4",
+    "ytdl-core": "^4.0.0"
+  }
+}
