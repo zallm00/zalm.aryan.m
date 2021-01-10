@@ -1,5 +1,4 @@
-# Music Bot with Filters 
-
+[![Music-Bot-With-Filters-v1](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v1&theme=dark)](https://github.com/navaneethkm004/Music-Bot-With-Filters-v1)
 An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
 
 #### Commands:
